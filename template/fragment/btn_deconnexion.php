@@ -1,0 +1,1 @@
+<a href='routeur.php?action=deconnexion&class=personnage' style=" position: fixed; right: 25px;" >Se déconnecter</a>
